@@ -15,8 +15,6 @@ Este es un proyecto simple de Windows desarrollado con WinForms y C# que te perm
 
 2. Se abrirá una ventana con la imagen capturada por la cámara.
 
-![Captura de ejemplo](https://ibb.co/QK3wzFG)
-
 3. Haz clic en el botón de la cámara para tomar una foto.
 
 
