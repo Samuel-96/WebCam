@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N/pK/Pux7DmquuIHs/YoQsNxtXbhajNRettmZR+oaw8u3w3BMwOmPO72AsFLmCLtVw0g1qruOnNeabea4piZXg==",
+  "dgSpecHash": "xDhPP2SUqOgPFmJJu5ADPEltZTxos/acfx36g3b08+Cg0oGB1v0phfneIolrpnHePIDHz/G9Em7EojaZAoDsWw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\samu2\\Documents\\GitHub\\WebCam\\WebCam\\WebCam\\WebCam.csproj",
+  "projectFilePath": "C:\\Users\\samu2\\Documents\\GitHub\\WebCam\\WebCam.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\samu2\\.nuget\\packages\\aforge\\2.2.5\\aforge.2.2.5.nupkg.sha512",
     "C:\\Users\\samu2\\.nuget\\packages\\aforge.video\\2.2.5\\aforge.video.2.2.5.nupkg.sha512",

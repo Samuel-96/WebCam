@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\samu2\\Documents\\GitHub\\WebCam\\WebCam\\WebCam\\WebCam.csproj": {}
+    "C:\\Users\\samu2\\Documents\\GitHub\\WebCam\\WebCam.csproj": {}
   },
   "projects": {
-    "C:\\Users\\samu2\\Documents\\GitHub\\WebCam\\WebCam\\WebCam\\WebCam.csproj": {
+    "C:\\Users\\samu2\\Documents\\GitHub\\WebCam\\WebCam.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\samu2\\Documents\\GitHub\\WebCam\\WebCam\\WebCam\\WebCam.csproj",
+        "projectUniqueName": "C:\\Users\\samu2\\Documents\\GitHub\\WebCam\\WebCam.csproj",
         "projectName": "WebCam",
-        "projectPath": "C:\\Users\\samu2\\Documents\\GitHub\\WebCam\\WebCam\\WebCam\\WebCam.csproj",
+        "projectPath": "C:\\Users\\samu2\\Documents\\GitHub\\WebCam\\WebCam.csproj",
         "packagesPath": "C:\\Users\\samu2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\samu2\\Documents\\GitHub\\WebCam\\WebCam\\WebCam\\obj\\",
+        "outputPath": "C:\\Users\\samu2\\Documents\\GitHub\\WebCam\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\samu2\\AppData\\Roaming\\NuGet\\NuGet.Config",
