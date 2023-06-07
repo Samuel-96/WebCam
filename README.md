@@ -15,6 +15,8 @@ Este es un proyecto simple de Windows desarrollado con WinForms y C# que te perm
 
 2. Se abrirá una ventana con la imagen capturada por la cámara.
 
+![Ejemplo de imagen](https://github.com/Samuel-96/WebCam/blob/main/WebCam-ImagenEjemplo.png)
+
 3. Haz clic en el botón de la cámara para tomar una foto.
 
 
